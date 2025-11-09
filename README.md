@@ -28,7 +28,11 @@ Wiring Diagram:
 <img width="1884" height="1063" alt="Wiring Diagram for Launcher" src="https://github.com/user-attachments/assets/332edca5-55d6-4250-8fbf-99a1685ca17b" />
 
 A YouTube video of one build, without base-attachment, with my cat, "Admiral Grace Hoppper", mildly intrigued (Grace often likes to chase rubber pands & thrown twist-ties).
+
 [![Watch the Short](https://img.youtube.com/vi/PU9N75umVBI/hqdefault.jpg)](https://www.youtube.com/watch?v=PU9N75umVBI "Watch on YouTube")
+
+And here are my students building this project in class, although it was before I refined the code, above:
+[![Watch the Short](https://img.youtube.com/vi/envNY1mYCEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=envNY1mYCEQ "Watch on YouTube")
 
 
 
