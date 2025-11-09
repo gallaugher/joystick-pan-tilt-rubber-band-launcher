@@ -15,7 +15,7 @@ Parts:
   Note: Most joysticks include a wire for a button, that registeres when the joystick is tapped, but I found this was awkward on joysticks vertically mounted on the breadboard, so I had students use a separate button. If you laser-cut a wooden case & mounted the joystick, you could likely use the built-in button instead.
 - At least 15 pin-pin breadboard wires. - a pack like this is fine - https://www.adafruit.com/product/1957
 - A microUSB cable that supports data transfer, NOT a power-only cable.
-- A wooden stick (you can likely use a popsicle stick. I have access to a lser-cutter, so I precisely cut sticks with mounting holes. See Adobe Illustrator file below, if useful.
+- A wooden stick (you can likely use a popsicle stick. I have access to a lser-cutter, so I precisely cut sticks with mounting holes. See Adobe Illustrator file (laser cut stick.ai) in this repo, if useful.
 - sticky-side velcro tape - for mounting the velcro to the platform
 - SuperGlue - for gluing the larger platform to the pan/tilt base
 - A washer or cardboard (I used both) can help fill in the gap between the base and pan-swivel. This creates more pan-stability on x-axis movements.
