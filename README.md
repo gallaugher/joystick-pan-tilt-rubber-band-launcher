@@ -24,11 +24,11 @@ Parts:
 Note: This build uses the cheaper-quality nylon-gear micro-servos that most teachers use. The 3D printed model is sized for these. Unfortunately these servos jitter when stressed, and the tilt portion of the base is quite jittery. I've written the code to reduce this. If you have useful changes, do let me know what you come up with!
 My students also have higher-quality metal-gear micro-servos for other projects, but these don't fit the 3D model. In the future I may change the model used above so it accomodtes better servos. Stay tuned!
 
-A YouTube video of one build, without base-attachment, with my cat, "Admiral Grace Hoppper", mildly intrigued (Grace often likes to chase rubber pands & thrown twist-ties).
-https://youtube.com/shorts/PU9N75umVBI
-
 Wiring Diagram:
 <img width="1884" height="1063" alt="Wiring Diagram for Launcher" src="https://github.com/user-attachments/assets/332edca5-55d6-4250-8fbf-99a1685ca17b" />
+
+A YouTube video of one build, without base-attachment, with my cat, "Admiral Grace Hoppper", mildly intrigued (Grace often likes to chase rubber pands & thrown twist-ties).
+[![Watch the Short](https://img.youtube.com/vi/PU9N75umVBI/hqdefault.jpg)](https://www.youtube.com/watch?v=PU9N75umVBI "Watch on YouTube")
 
 
 
