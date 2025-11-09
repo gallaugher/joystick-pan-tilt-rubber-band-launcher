@@ -28,5 +28,7 @@ A YouTube video of one build, without base-attachment, with my cat, "Admiral Gra
 https://youtube.com/shorts/PU9N75umVBI
 
 Wiring Diagram:
+<img width="1884" height="1063" alt="Wiring Diagram for Launcher" src="https://github.com/user-attachments/assets/332edca5-55d6-4250-8fbf-99a1685ca17b" />
+
 
 
