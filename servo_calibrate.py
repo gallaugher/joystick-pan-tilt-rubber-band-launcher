@@ -1,3 +1,5 @@
+# Use this to move the servo to the 90° position before you add the servo horn in the position 
+# so that the arm points straight up.
 import time, board,  pwmio
 from adafruit_motor import servo 
 
